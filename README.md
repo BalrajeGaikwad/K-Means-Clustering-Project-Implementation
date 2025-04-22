@@ -26,3 +26,6 @@ Visualization: Using Seaborn & Matplotlib to plot results.
 
 Evaluation: Checking cluster validity (Elbow method, Silhouette score).
 
+It is unsupervised learning algorithm 
+
+
